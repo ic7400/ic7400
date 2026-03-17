@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">ic7400</h1>
-<p align="center"><i>"I can debate and I code sometimes"</i></p>
+<p align="center"><i>"Solving real problems with made-up languages"</i></p>
 
 <p align="center">
   <a href="https://github.com/ic7400">

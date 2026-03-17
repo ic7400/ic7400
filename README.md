@@ -39,28 +39,26 @@ Focused on Machine Learning and Data Science, working on building predictive mod
 
 ### Tech Stack
 
-#### Languages
 <h3>Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-#### Machine Learning & Data Science
 <h3>Machine Learning & Data Science</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-34495E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-3C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Seaborn-34495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Optuna-3C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 
 #### Databases

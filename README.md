@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hey-There!&fontSize=90&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hey%2There!&fontSize=90&fontAlign=50" />
 </p>
 
 <h1 align="center">ic7400</h1>

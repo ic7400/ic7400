@@ -37,7 +37,7 @@ Focused on Machine Learning and Data Science, working on building predictive mod
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <h3>Languages</h3>
 
@@ -61,24 +61,28 @@ Focused on Machine Learning and Data Science, working on building predictive mod
 </p>
 </p>
 
-#### Databases
-<p>
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
+<h3>Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6E57E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-1E88E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
 </p>
 
-#### Tools
-<p>
-    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<h3>Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### GitHub Stats
 
 <p align="center">
   <img 

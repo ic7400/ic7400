@@ -2,7 +2,10 @@
   <img src="header.svg" width="100%" />
 </div>
 
-**`solving real problems using made-up languages`**
+<div align="center">
+  
+  *solving real problems using made-up languages*
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ic7400&label=Profile%20Views&color=6E57E0&style=flat-square)](https://github.com/ic7400)
 

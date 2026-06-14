@@ -15,7 +15,7 @@
 
 ```python
 class Nandini:
-    focus     = ["Machine Learning", "Deep Learning", "Generative AI", "LLMs"]
+    focus     = ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI", "LLMs"]
     currently = "building predictive models & data-driven systems"
     belief    = "the best models are the ones that actually ship"
 ```
